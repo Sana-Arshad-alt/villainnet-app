@@ -1,0 +1,6 @@
+tensorflow-cpu==2.20.0
+streamlit
+scikit-learn==1.9.1
+pandas
+numpy
+joblib
